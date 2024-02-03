@@ -1,6 +1,5 @@
 ---
 title: hexo部署到gitee
-date: 2022-03-27 15:37:35
 tags: hexo
 ---
 ## hexo修改主题后部署问题

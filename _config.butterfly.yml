@@ -10,7 +10,7 @@ nav:
 # Menu 目錄
 menu:
   主页: / || fas fa-home
-  链接: /link/ || fas fa-link
+  链接: /_posts/goodsite || fas fa-link
 
 # Code Blocks (代碼相關)
 # --------------------------------------

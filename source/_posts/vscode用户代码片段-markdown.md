@@ -1,5 +1,5 @@
 ---
-tilte: vscode用户代码片段——markdown
+title: vscode用户代码片段——markdown
 tags: markdown
 ---
 ### 1.设置——打开settings.json——在settings.json中修改配置允许markdown自动提示
@@ -18,7 +18,7 @@ tags: markdown
 		"prefix": "md",
 		"body": [
 			"---",
-			"tilte: $1",
+			"title: $1",
 			"tags: $0"
 			"---"
 		]
